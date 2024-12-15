@@ -1,0 +1,2 @@
+def trail():
+    return "Null"
